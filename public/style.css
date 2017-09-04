@@ -1,0 +1,64 @@
+body {
+	background-image: url(http://image.shutterstock.com/z/stock-vector-hamburger-vector-pattern-on-beige-background-big-medium-small-cheeseburgers-pattern-seamless-341877743.jpg);
+}
+h1 {
+	color: #FF0000;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 64px;
+	text-align: center;
+}
+h2 {
+	color: #FF0000;
+	font-family: 'Bowlby One SC', cursive;	
+}
+button {
+	margin: 10px;
+}
+.all-25 {
+	border-style: dashed;
+	border-width: 1px;
+	border-color: #FF0000;
+	padding: 3px;
+	margin-right: 45px;
+	margin-left: 45px;
+	margin-bottom: 50px;
+}
+input {
+	height: 80px;
+	background-color: #FFD700;
+	color: #FF0000;
+	font-family: 'Bowlby One SC', cursive;	
+	border-color: #32CD32;
+}
+
+
+h1 {
+	color: #FF0000;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 64px;
+	text-align: center;
+}
+h2 {
+	color: #FF0000;
+	font-family: 'Bowlby One SC', cursive;	
+}
+button {
+	margin: 10px;
+}
+.all-25 {
+	border-style: dashed;
+	border-width: 1px;
+	border-color: #FF0000;
+	padding: 3px;
+	margin-right: 45px;
+	margin-left: 45px;
+	margin-bottom: 50px;
+}
+input {
+	height: 80px;
+	background-color: #FFD700;
+	color: #FF0000;
+	font-family: 'Bowlby One SC', cursive;	
+	border-color: #32CD32;
+}
+
